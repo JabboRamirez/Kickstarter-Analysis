@@ -1,7 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 
-An analysis that helps My client to have a successful Kickstarter campaign
-I will have information and images that will help understand what is needed to have a succesful Kickstarting campaign
+An analysis that has information and images that will help understand what is needed to have a succesful Kickstarting campaign
 using only Excel.
 
 ## Overview of Project
