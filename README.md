@@ -13,7 +13,7 @@ using only Excel.
 
 ### Analysis of Outcomes Based on Launch Date
 
-![](Resources\Theater_Outcomes_vs_Launch.png)
+![](https://github.com/JabboRamirez/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 According to the chart above, we can conclude that the most successful campaings were kickstarted in the month of may while the ones with the least success runs were in the month december meaning that summer might be best time to start a kickstarter campaign. We can also see that through the months, campaings were cancelled but at a very minimal rate meaning that in general, campaign have a better success rate than being canceled.
 
 ### Analysis of Outcomes Based on Goals
